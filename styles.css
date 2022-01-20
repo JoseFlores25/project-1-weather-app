@@ -32,8 +32,8 @@ button {
   margin: 0.5em;
   border-radius: 50%;
   border: none;
-  height: 2.5em;
-  width: 2.5em;
+  height: 3.5em;
+  width: 3.5em;
   outline: none;
   background: #7c7c7c2b;
   color: white;
@@ -86,13 +86,10 @@ form {
   flex-direction: row;
 }
 
-/* th {
-  -webkit-transition-duration: 200ms, 200ms, 200ms;
-  -webkit-transition-property: background-image, border, font-weight;
-  display: inline-block;
-  height: 95px;
-  line-height: 1;
-  margin-right: 7px;
-  text-align: center;
-  width: 75px;
-} */
+button#time {
+  height: fit-content;
+  font-size: inherit;
+  height: 2.5em;
+  width: 5.5em;
+  border-radius: 50%;
+}

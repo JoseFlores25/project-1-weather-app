@@ -15,6 +15,7 @@ window.addEventListener("load", () => {
         });
     },
 
+    // destructing the data and grabbing its property.
     displayWeather: function (data) {
       console.log("[debug]", data, "datas");
       const { name } = data;
