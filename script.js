@@ -1,3 +1,5 @@
+// fetching the server
+
 window.addEventListener("load", () => {
   let weather = {
     apiKey: "0781b17db05d10aa388fa867a87f6b24",
@@ -43,4 +45,8 @@ window.addEventListener("load", () => {
       e.preventDefault();
       weather.search();
     });
+
+  document.getElementById("time").addEventListener("click", function () {
+    alert(new Date());
+  });
 });
