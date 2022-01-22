@@ -13,4 +13,4 @@
 
 <h1>How to use:</h1>
 `By going to the search bar you type in the city of were you want to check the temperature  and it will give you date of the <li>city</li><li>wind</li><li>temperature </li><li>humidity</li>
-https://github.com/JoseFlores25/project-1-weather-app/blob/main/weather%20img/Rain.jpg?raw=true
+![](file:///Users/joseflores/Desktop/projects/my-weather-app/Rain.jpg)
